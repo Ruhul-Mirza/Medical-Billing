@@ -6,6 +6,11 @@
     box-shadow: rgba(0, 0, 0, 0.19) 0px 10px 20px, rgba(0, 0, 0, 0.23) 0px 6px 6px;
 
   }
+  .navbar img{
+    width: 100px;
+    height: 100px;
+
+  }
   
   .btn {
     font-weight: 500;
@@ -101,7 +106,7 @@
     padding: 150px 0;
 }
 
-.hero video {
+.hero img {
     position: absolute;
     top: 0;
     left: 0;
